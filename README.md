@@ -2,8 +2,6 @@
 This computer vision project focuses on the automated detection and classification of basketball referee signals using deep learning. The system can identify 10 distinct official basketball referee hand signals from video input, providing real-time signal recognition to enhance game understanding for viewers and coaches.
 
 ## Technologies Used
-
--TensorFlow/Keras
 - OpenCV
 - Python 3.7+
 - YOLOv8 (transfer learning)
