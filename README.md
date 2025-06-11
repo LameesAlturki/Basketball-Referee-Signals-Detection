@@ -9,4 +9,4 @@ This computer vision project focuses on the automated detection and classificati
 
 ----------------------------------------------------------
 All the data, labeled and augemented and split into frames can be accessed from here: https://universe.roboflow.com/lameess
-<br/>Project discription and results details: https://drive.google.com/file/d/1F8myn4cKplW68wSCj4Uf9AOTtgAls6J1/view
+<br/>Project discription and results details: [https://drive.google.com/file/d/1F8myn4cKplW68wSCj4Uf9AOTtgAls6J1/view](https://drive.google.com/file/d/1W6gIvOvxRXMHvUtoRk_UR2gy_oMAFz2s/view?usp=sharing)
