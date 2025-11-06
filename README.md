@@ -12,4 +12,3 @@ All the data, labeled and augemented and split into frames can be accessed from 
 <br/>Project discription and results details: [https://drive.google.com/file/d/1F8myn4cKplW68wSCj4Uf9AOTtgAls6J1/view](https://drive.google.com/file/d/1W6gIvOvxRXMHvUtoRk_UR2gy_oMAFz2s/view?usp=sharing)
 <br/>Frame 1 model (which achived the best results) bieng tested on a sample from the saudi league can be viewed through the following link since the file is quite large in size: https://drive.google.com/file/d/1IE3GSlKb3whfPCf3JQO4XDdL3mevo-hM/view?usp=share_link
 
-The project presentation is available here: https://www.canva.com/design/DAGmUGSBo7M/WjYUOQnV5NJtCwZ1OQA2wA/edit?utm_content=DAGmUGSBo7M&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
