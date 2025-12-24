@@ -19,9 +19,14 @@ Answer the question: which frame (start, middle or end) used to train will provi
 <img src="https://github.com/user-attachments/assets/b93c8f38-f1a5-4a0a-b0c5-5d93d4c044a0" width="100%"></td></tr></table>
 
 ## Results 
-Over all classes using test split
+Over all classes using test split:
 
 <img width="586.6" height="186.2" alt="image" src="https://github.com/user-attachments/assets/f13ff268-b2b9-4d8c-a4a5-31b53c85f8c7" />
+
+Example:
+
+<img width="639.36" height="360" alt="image" src="https://github.com/user-attachments/assets/53905873-4ec2-45dd-a1d3-47048e69ea09" />
+
 
 ## Extra Resoureces 
 All the data, labeled and augemented and split into frames can be accessed from here: [Roboflow](https://universe.roboflow.com/lameess)
